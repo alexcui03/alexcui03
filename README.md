@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=alexcui03&show_icons=true&count_private=true)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=alexcui03&layout=compact&show_icons=true)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=alexcui03&layout=compact&show_icons=true)
+
 <!--
 **alexcui03/alexcui03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
